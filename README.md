@@ -22,4 +22,5 @@ Create events to bring people together for mentorship and code collaborations, s
 
 ## How to make your first pull request ?
 Step 1 : Firstly star the repo 🌟
+<img src="p1.png"></img>
 
