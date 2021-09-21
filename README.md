@@ -1,4 +1,4 @@
-# Hackotober-Fest-2021
+# Hola Amigos, Welcome to Hackotober-Fest-2021
 
 ## What is HacktoberFest ?
 Hosted by DigitalOcean for the 8th year in a row, Hacktoberfest encourages participation in giving back to the open source community by completing pull requests, participating in events, and donating to open source projects.
@@ -37,7 +37,7 @@ Step 4 : Create a JSON data inside "Contributors" folder . Generate the JSON dat
 
 Step 5 : After filling the details. Click on "Commit Changes"
 
-Step 6 :
+Step 6 : Create a Pull request that's it.
 
 ## Disclaimer : 
 This repo is to welcome beginners to Github and the opensource community by helping them learn how to make their first PR and contributions to open source!
