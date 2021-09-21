@@ -33,6 +33,12 @@ Step 2 : Show some love by clicking on "FOLLOW" (Clickbait 😂)
 
 Step 3 : Fork this project by clicking on "FORK"
 
+Step 4 : Create a JSON data inside "Contributors" folder . Generate the JSON data same as given in demo :)
+
+Step 5 : After filling the details. Click on "Commit Changes"
+
+Step 6 :
+
 ## Disclaimer : 
 This repo is to welcome beginners to Github and the opensource community by helping them learn how to make their first PR and contributions to open source!
 
