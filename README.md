@@ -45,6 +45,6 @@ This repo is to welcome beginners to Github and the opensource community by help
 
 ## Contributors:
 <a href="https://github.com/PuneethKShetty/Hackotober-Fest-2021/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=PuneethKShetty/Hackotober-Fest-2021" />
+ 
    <img src="https://contributors-img.web.app/image?repo=TJ545/Hackotober-Fest-2021" />
 </a>
