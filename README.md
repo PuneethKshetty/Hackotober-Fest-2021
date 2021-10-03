@@ -43,7 +43,3 @@ Step 6 : Create a Pull request that's it.
 ## Disclaimer : 
 This repo is to welcome beginners to Github and the opensource community by helping them learn how to make their first PR and contributions to open source!
 
-## Contributors:
-<a href="https://github.com/PuneethKShetty/Hackotober-Fest-2021/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=vineethrai/Hackotober-Fest-2021" />
-</a>
