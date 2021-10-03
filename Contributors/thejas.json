@@ -1,0 +1,8 @@
+// This is just my demo creation of JSON data with filename as my github username
+{
+    "github-username": "Tj545",
+    "semester-and-section": "2nd sem 'K'",
+    "favorite-anime": "Attack on Titan",
+    "favourite-webseries": "Sherlock, Money Heist, Dark",
+    "favourite-color": "blue"
+}
